@@ -7,7 +7,7 @@
   <img align="left" alt="Marion Bricout | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=MarionBricout.MarionBricout)
+![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)
 
 <br />
 
