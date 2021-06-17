@@ -1,11 +1,14 @@
-## Hello 👋
+## Bonjour à tous ! 👋
 
-<a href="https://twitter.com/Drc_Axu">
-  <img align="left" alt="Marion Bricout | Twitter" width="22px" fill='blue' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/marion-bricout/">
-  <img align="left" alt="Marion Bricout | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="mailto:marion.bricout@protonmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/Drc_Axu">
+    <img align="left" alt="Marion Bricout | Twitter" width="22px" fill='blue' src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marion-bricout/">
+    <img align="left" alt="Marion Bricout | LinkdeIn" width="22px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)
 
