@@ -45,9 +45,9 @@
 <br>
 
 <details>
-  <summary>
+  <summary><b>
 &nbsp;⚙️ Statistiques GitHub
-  </summary>
+    </b></summary>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" /> <p>
 </details>  
