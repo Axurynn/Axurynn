@@ -44,10 +44,13 @@
 
 <br>
 
-### &nbsp;⚙️ Statistiques GitHub
+<details>
+  <summary>
+&nbsp;⚙️ Statistiques GitHub
+  </summary>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" /> <p>
-  
+</details>  
 
 <!---
 - 👋 Hi, I’m @MarionBricout
