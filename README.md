@@ -1,12 +1,11 @@
-## Bonjour à tous ! 👋
+## Bonjour à tous ! 👋 <p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
 
 <p align="center">
-  <a href="mailto:marion.bricout@protonmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/Drc_Axu"><img alt="Marion Bricout | Twitter" fill='blue' src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/Drc_Axu"><img alt="Marion Bricout | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marion-bricout/"><img alt="Marion Bricout | LinkdeIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)
+
 
 <br />
 
