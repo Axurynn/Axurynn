@@ -1,4 +1,4 @@
-## Bonjour à tous ! 👋 <p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
+## Bonjour à tous ! 👋 <p align="right" display="inline">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
 
 <p align="center">
   <a href="https://twitter.com/Drc_Axu"><img alt="Marion Bricout | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
