@@ -8,6 +8,7 @@
  
 <br />
 
+
 ### &nbsp;&nbsp; À propos de moi 
 
 &nbsp;&nbsp;&nbsp;:computer: &nbsp; Actuellement en formation fullstack JS chez [O'clock](https://oclock.io/)\
@@ -15,7 +16,6 @@
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionnée par la résolution de problèmes et JavaScript
 
 <br>
-
 
 ### &nbsp;:computer: Principales connaissances technologiques
 #### &nbsp;&nbsp;&nbsp;:seedling:🧠 Toujours en cours d'apprentissage...
@@ -43,7 +43,7 @@
 
 ### &nbsp;⚙️ Statistiques GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" /> <p>
   
 
 <!---
