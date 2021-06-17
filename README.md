@@ -1,3 +1,4 @@
+![Image1](https://user-images.githubusercontent.com/79093561/122458790-78a1de80-cfb0-11eb-8e1a-e13dfb55eb33.png)
 ## Hello ! 👋 Je suis Marion Bricout, en formation pour devenir développeuse web 🚀<p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
 
 <p align="center">
