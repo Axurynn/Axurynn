@@ -46,7 +46,7 @@
 
 ### &nbsp;⚙️ Statistiques GitHub
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" /> <p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarionBricout&show_icons=true&theme=nightowl" alt="MarionBricout" /> <p>
   
 
 <!---
@@ -60,3 +60,6 @@
 MarionBricout/MarionBricout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+<!-- ![Image3](https://user-images.githubusercontent.com/79093561/122461012-18f90280-cfb3-11eb-9877-7843204aee97.png) -->
+<img alt="Axurynn-header" src="https://user-images.githubusercontent.com/79093561/122461012-18f90280-cfb3-11eb-9877-7843204aee97.png" height="250px" align="right"/>
