@@ -1,4 +1,6 @@
-![Image1](https://user-images.githubusercontent.com/79093561/122458790-78a1de80-cfb0-11eb-8e1a-e13dfb55eb33.png)
+<!--![Image2](https://user-images.githubusercontent.com/79093561/122459635-6e341480-cfb1-11eb-9c34-6d797cd0d209.png)-->
+<img alt="Axurynn-header" src="https://user-images.githubusercontent.com/79093561/122459635-6e341480-cfb1-11eb-9c34-6d797cd0d209.png" height="250px"/>
+
 ## Hello ! 👋 Je suis Marion Bricout, en formation pour devenir développeuse web 🚀<p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
 
 <p align="center">
