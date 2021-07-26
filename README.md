@@ -33,6 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-339933.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
   
 
 <!-- 
