@@ -1,7 +1,7 @@
 <!--![Image2](https://user-images.githubusercontent.com/79093561/122459635-6e341480-cfb1-11eb-9c34-6d797cd0d209.png)-->
 <img alt="Axurynn-header" src="https://user-images.githubusercontent.com/79093561/122459635-6e341480-cfb1-11eb-9c34-6d797cd0d209.png" height="250px"/>
 
-## Hello ! 👋 Je suis Marion Bricout, en formation pour devenir développeuse web 🚀<p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
+## Hello ! 👋 Je suis Marion Bricout, développeuse web 🚀<p align="right">![](https://visitor-badge.glitch.me/badge?page_id=Axurynn.Axurynn)</p>
 
 <p align="center">
   <a href="https://twitter.com/Drc_Axu"><img alt="Marion Bricout | Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
 ### &nbsp;&nbsp; À propos de moi 
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp; Actuellement en formation fullstack JS chez [O'clock](https://oclock.io/)\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp; Développeuse fullstack JS\
 &nbsp;&nbsp;&nbsp;:sparkles: &nbsp;Amour pour la science et l'innovation\
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionnée par la résolution de problèmes et JavaScript
 
