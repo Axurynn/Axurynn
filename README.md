@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionnée par la résolution de problèmes et JavaScript
 
 <br>
-<p align="center"><a href="https://www.codewars.com/users/Axurynn/badges/large"><img src="https://www.codewars.com/users/Axurynn/badges/large"></a></p>
+<p align="center"><a href="https://www.codewars.com/users/Axurynn/badges/small"><img src="https://www.codewars.com/users/Axurynn/badges/small"></a></p>
 <br>
 
 ### &nbsp;:computer: Principales connaissances technologiques
