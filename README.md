@@ -19,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionnée par la résolution de problèmes et JavaScript
 
 <br>
+<a href="https://www.codewars.com/users/Axurynn/badges/large"><img src="https://www.codewars.com/users/Axurynn/badges/large"></a>
+<br>
 
 ### &nbsp;:computer: Principales connaissances technologiques
 #### &nbsp;&nbsp;&nbsp;:seedling:🧠 Toujours en cours d'apprentissage...
@@ -45,8 +47,6 @@
 -->
 
 <br>
-
-<a href="https://www.codewars.com/users/Axurynn/badges/large"><img src="https://www.codewars.com/users/Axurynn/badges/large"></a>
 
 <details>
   <summary><b>
