@@ -46,6 +46,8 @@
 
 <br>
 
+<a href="https://www.codewars.com/users/Axurynn/badges/large"><img src="https://www.codewars.com/users/Axurynn/badges/large"></a>
+
 <details>
   <summary><b>
 &nbsp;⚙️ Statistiques GitHub
