@@ -14,7 +14,7 @@
 
 ### &nbsp;&nbsp; À propos de moi 
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp; Développeuse fullstack JS\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp; Développeuse \
 &nbsp;&nbsp;&nbsp;:sparkles: &nbsp;Amour pour la science et l'innovation\
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionnée par la résolution de problèmes et JavaScript
 
@@ -23,13 +23,12 @@
 <br>
 
 ### &nbsp;:computer: Principales connaissances technologiques
-#### &nbsp;&nbsp;&nbsp;:seedling:🧠 Toujours en cours d'apprentissage...
-
 
   
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-c76494.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
@@ -37,6 +36,8 @@
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;\
 ![React](https://img.shields.io/badge/REACT-00D1F2.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/SPRING-5cb230.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/ANGULAR-bd002e.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
   
 
 <!-- 
